@@ -12,3 +12,6 @@ cd SimpleYacc
 ./run.bat
 ```
 即可看到测试结果。
+
+### 开源许可协议
+<a href="https://github.com/lonelyenvoy/SimpleYacc/blob/master/LICENSE" target="_blank">The Apache-2.0 License</a>
