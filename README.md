@@ -13,5 +13,8 @@ cd SimpleYacc
 ```
 即可看到测试结果。
 
+### 项目依赖于
+[JDK 1.8+](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
 ### 开源许可协议
 <a href="https://github.com/lonelyenvoy/SimpleYacc/blob/master/LICENSE" target="_blank">The Apache-2.0 License</a>
